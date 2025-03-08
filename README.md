@@ -29,4 +29,4 @@ If you're streaming and using OnlyWands, this wont hide your seed from viewers a
 The mod directory needs to be named 'hide-world-seed'
 
 ## Steam workshop
-soon(tm)
+[Hide World Seed on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3440986180)
