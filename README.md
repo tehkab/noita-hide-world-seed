@@ -21,7 +21,7 @@ As this is technically an override to translations, only most builtin languages 
 - jp
 - ko
 
-Additionally, supported non-english languages currently still show english text "<hidden>" instead of their translated equivalent.
+Additionally, supported non-english languages currently still show english text "\<hidden\>" instead of their translated equivalent.
 
 If you're streaming and using OnlyWands, this wont hide your seed from viewers anyway, as they can see it on OnlyWands (for now)
 
