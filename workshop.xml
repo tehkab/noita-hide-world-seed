@@ -1,0 +1,8 @@
+<Mod
+    name="Hide World Seed"
+    description="Hides the world seed from the pause menu and when starting the game. Enough for casual observers."
+    tags="translations,tweaks"
+    dont_upload_folders="FOLDER_TO_IGNORE1|FOLDER_TO_IGNORE2"
+    dont_upload_files="workshop-preview.xcf"
+    >
+</Mod>
